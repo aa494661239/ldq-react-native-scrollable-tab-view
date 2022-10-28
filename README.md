@@ -1,3 +1,5 @@
+修改了 react-native-scrollable-tab-view 组件，让 ScrollView 可以嵌套该组件
+
 ## react-native-scrollable-tab-view
 
 [![npm version](https://badge.fury.io/js/react-native-scrollable-tab-view.svg)](https://badge.fury.io/js/react-native-scrollable-tab-view)
