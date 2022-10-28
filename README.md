@@ -1,0 +1,1 @@
+用法与react-native-scrollable-tab-view一致，只是修改了关于ScrollView嵌套该组件的问题
